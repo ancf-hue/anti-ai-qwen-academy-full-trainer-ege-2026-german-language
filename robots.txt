@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ancf-hue.github.io/anti-ai-qwen-academy-full-trainer-ege-2026-german-language/sitemap.xml
